@@ -5,9 +5,10 @@ This project as said above made the use of official open sourced API of [WikiPed
 
 I tried to make this project to learn API handling in vanilla JavaScript.
 
-This is the live [link]() in case you wanna try out(highly recommended😀).
+This is the live [link](https://wikiquick.netlify.app/) in case you wanna try out(highly recommended😀).
 I also request you to share your thoughts and feedbacks on my [EMail](mailto:raushankumar279878@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/raushan-k/)😃.
 
 
 **The App looks like below image(though it is the actual screenshot of the app lol!)**
+
 ![WikiPedia Search Engine](./screenshot.png)
